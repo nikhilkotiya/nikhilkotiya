@@ -66,7 +66,7 @@ I'm a Final year student pursuing Bachelors's in Information technology  🎓 fr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilkotiya&repo=JWT_and_Social_Authtication_in_drf&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/nikhilkotiya/User_sineup_and_login_form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilkotiya&repo=https://github.com/nikhilkotiya/User_sineup_and_login_form&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilkotiya&repo=User_sineup_and_login_form&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/nikhilkotiya/Socail-media-appilcation-using_Node">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilkotiya&repo=Socail-media-appilcation-using_Node&theme=omni&layout=compact" />
