@@ -10,7 +10,7 @@ I'm a Final year student pursuing Bachelors's in Information technology  🎓 fr
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Django APIs, React etc.
+- 🛠 &nbsp; I’m currently working with Python, Django APIs etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nikhilkotiya8).
 - 💬 &nbsp; Ask me about anything [here](mailto:nikhilkotiya8@gmail.com)! I am happy to help.
 
