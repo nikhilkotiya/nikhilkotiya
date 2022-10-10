@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 [![Email Badge](https://img.shields.io/badge/-nikhilkotiya8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:nikhilkotiya8@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkotiya8)
 
 I'm a Final year student pursuing Bachelors's in Information technology  🎓 from Maharaja Agrasen Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. I'm currently learning Django ⚓️ and working on my Data Structures and Algorithms 🤓.
 
