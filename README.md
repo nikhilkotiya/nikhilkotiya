@@ -9,7 +9,7 @@ I'm a Final year student pursuing Bachelors's in Information technology  🎓 fr
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Django APIs etc.
+- 🛠 &nbsp; I’m currently working with Python, Django, Node Js, 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nikhilkotiya8).
 - 💬 &nbsp; Ask me about anything [here](mailto:nikhilkotiya8@gmail.com)! I am happy to help.
 
@@ -23,9 +23,9 @@ I'm a Final year student pursuing Bachelors's in Information technology  🎓 fr
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs.
 
-- 🔭 I’m currently working on [PocketFM](https://www.pocketfm.com/)
+- 🔭 I’m currently working on [RightChoice](https://rightchoice.ai/)
 
-- 🌱 I’m currently learning **Django,DRF,AWS,Kafka**
+- 🌱 I’m currently learning **Python,Django,NodeJs,,Kafka,MongoDb,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
