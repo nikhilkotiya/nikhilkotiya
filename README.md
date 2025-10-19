@@ -5,10 +5,10 @@
   <a href="mailto:nikhilkotiya8@gmail.com">
     <img src="https://img.shields.io/badge/-nikhilkotiya8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nikhil-kotiya" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhilkotiya8" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/nikhilkotiya8" target="_blank">
+  <a href="https://github.com/nikhilkotiya" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
